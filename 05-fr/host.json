@@ -1,0 +1,19 @@
+{
+  "masterKey": {
+    "name": "master",
+    "value": "CfDJ8AAAAAAAAAAAAAAAAAAAAACmwaf33CuVn3GbfTgOkF0YUxn8QUJIas7qrH6Wt6s7A85KlsmceJ65grF7Ie3L6F4tnvXgUnbtFki-yX9Hc-W-9PW8pa_TvhfF4KbBObLUdPvWc97VXtYt5GpAy8N5eFkKWVZNVsRsSet_ohts_H7P78i-uRpNXFDSbzfmt1VLHQ",
+    "encrypted": true
+  },
+  "functionKeys": [
+    {
+      "name": "default",
+      "value": "CfDJ8AAAAAAAAAAAAAAAAAAAAABf0OOFfjGaOJS43lABTj3z9xX67kMjRMdb7Qm-hbkPhEG68SL3stCGs2YmPUVoBOT5cruslFoU9bsKdxRlorCK4lpac5eUySNl5nxsIPPUz1nPvYUGPGBKNL6-sEeoX8MfVqHzkAVR9IOAk4J9SoVy_LtRUp33zEgQ2frqp6FQ_g",
+      "encrypted": true
+    }
+  ],
+  "systemKeys": [],
+  "hostName": "mc-dev-10569a45-ssh-manage.azurewebsites.net",
+  "instanceId": "0000000000000000000000007B62B269",
+  "source": "runtime",
+  "decryptionKeyId": "AzureWebEncryptionKey=iqvhwa1XHz/kAanS3B9fy26VV8KKf/CFUK8NPUg9GWA=;"
+}

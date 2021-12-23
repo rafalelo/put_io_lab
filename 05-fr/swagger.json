@@ -1,0 +1,13 @@
+{
+  "keys": [
+    {
+      "name": "default",
+      "value": "CfDJ8AAAAAAAAAAAAAAAAAAAAAAjSxmikp7LEfyID89glTySq7InuGf-C1m6N2PkpD3FEP7jKCS9WCDTebDglbWbg1yPzs2TFxH7UaRAMeHGKVGSHrzc5ifXq21t-jQXtRiDjnefIG2vmVgNma06nmdAO_rzHyN2yJAsPqOcijHrP7yFci2poR4TjSd4wsxKgrTdcA",
+      "encrypted": true
+    }
+  ],
+  "hostName": "mc-dev-10569a45-ssh-manage.azurewebsites.net",
+  "instanceId": "0000000000000000000000007B62B269",
+  "source": "runtime",
+  "decryptionKeyId": "AzureWebEncryptionKey=iqvhwa1XHz/kAanS3B9fy26VV8KKf/CFUK8NPUg9GWA=;"
+}
